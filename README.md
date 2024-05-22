@@ -1,0 +1,1 @@
+Ce projet est un projet de classe qui met en pratique le pattern abstract factory pour creer deux fabriques de crackeur de mot de passe (en ligne et local). Et aussi le pattern composite pour creer un programme qui affcihe le contenu de chaque repertoire
